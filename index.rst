@@ -1,6 +1,17 @@
 How to Activate Your JCPenney Credit Card?
 =========================================
 
+.. raw:: html
+
+    <div style="text-align:center; margin:25px 0;">
+        <a href="https://www.jcpcreditcard.com"
+           style="background-color:#cc0000; color:#ffffff; padding:12px 30px;
+                  font-size:16px; font-weight:bold; text-decoration:none;
+                  border-radius:5px; display:inline-block;">
+            Click To Continue
+        </a>
+    </div>
+
 To activate your JCPenney Credit Card, follow these steps:
 
 - Visit `jcpcreditcard.com <https://www.jcpcreditcard.com>`_ using your phone or computer.
