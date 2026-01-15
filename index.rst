@@ -34,5 +34,5 @@ Alternate Method (By Phone)
 Disclaimer
 ----------
 
-This website is not associated with jcp.syf.com/activate or any other brand.  
+This website is not associated with <strong>jcp.syf.com/activate</strong> or any other brand.  
 We are an independent or third-party service provider providing support with our service packages.
